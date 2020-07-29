@@ -8,7 +8,7 @@ const allpts = require('./common/pt.js');
 
 (function() {
 
-	const third_part = ['新松联手机旗舰店', '佳沪数码手机旗舰店', '易道手机专营店'];
+	const third_part = ['乐清安盾智能电气有限', '乐清安盾智能电气有限', '乐清安盾智能电气有限'];
 	function setGlass() {
 		// 商品放大镜效果
 		var showproduct = {
@@ -58,12 +58,12 @@ const allpts = require('./common/pt.js');
 		if (price) {
 			$('#des_money').text(price + '.00');
 		}
-		$('.des_content_tit').html(`全网底价 Apple 苹果 <span class="true-c">${$.trim(name)} ${$.trim(ver)} ${$.trim(color)}</span> 产批次不同混合发货`);
+		$('.des_content_tit').html(`全网底价 <span class="true-c">${$.trim(name)} ${$.trim(ver)} ${$.trim(color)}</span> 产批次不同混合发货`);
 	}
 	var setDetail = function() {
-		arg = location.href.split('?')[1] ? location.href.split('?')[1].split('&')[0] : 'iphone,iphone7';
-		if (location.href.split('?')[1] && location.href.split('?')[1].split('&')[1]) {
-			storeName = location.href.split('?')[1].split('&')[1] ? unescape(location.href.split('?')[1].split('&')[1].split('=')[1]) : '新松联手机旗舰店';
+		arg = decodeURI(location.href).split('?')[1] ? decodeURI(location.href).split('?')[1].split('&')[0] : 'iphone,iphone7';
+		if (decodeURI(location.href).split('?')[1] && decodeURI(location.href).split('?')[1].split('&')[1]) {
+			storeName = decodeURI(location.href).split('?')[1].split('&')[1] ? unescape(decodeURI(location.href).split('?')[1].split('&')[1].split('=')[1]) : '乐清安盾智能电气有限';
 		}
 
 		let colors = allpts.getOne(arg).colors;
@@ -180,7 +180,7 @@ const allpts = require('./common/pt.js');
 			name: $('.des_content_tit .true-c').text(),
 			price: $('#des_money').text(),
 			image: $('#showbox').attr('data-src'),
-			version: location.href.split('?')[1]
+			version: decodeURI(location.href).split('?')[1]
 		}
 		if (util.StorageGetter('al_shop_pro')) {
 			arr = util.StorageGetter('al_shop_pro').split('|');
@@ -218,7 +218,7 @@ const allpts = require('./common/pt.js');
 			name: $('.des_content_tit .true-c').text(),
 			price: $('#des_money').text(),
 			image: $('#showbox').attr('data-src'),
-			version: location.href.split('?')[1]
+			version: decodeURI(location.href).split('?')[1]
 		}
 		if (util.StorageGetter('al_shop_pro')) {
 			arr = util.StorageGetter('al_shop_pro').split('|');

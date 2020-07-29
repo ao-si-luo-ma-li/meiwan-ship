@@ -2222,3 +2222,224 @@
 		margin-left: 30px;
 	}
 }
+
+.with-vip {
+	.shopLife {
+		.li_inner_item {
+			width: 100%;
+		}
+
+		.li_tp_list {
+			width: 820px;
+		}
+
+		li {
+			width: 25%;
+
+			a {
+				height: auto;
+			}
+
+			img {
+				position: static;
+				width: 200px;
+				height: 285px;
+			}
+		}
+
+		.li_tp_list li:nth-child(2n+1) a {
+			border-right: 1px solid #e7e7e7;
+		}
+
+		.li_tp_list li:nth-child(n + 3) a {
+			border-bottom: 1px solid #e7e7e7;
+		}
+	}
+
+	.shopAd {
+		height: 76px;
+	}
+
+	.vip-join {
+		ul {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			flex-wrap: wrap;
+			background: #eee;
+		}
+
+		li {
+			margin-bottom: 20px;
+			display: flex;
+			justify-content: space-between;
+			align-items: flex-start;
+			width: 48%;
+			box-shadow: 1px 1px 5px 1px #ccc;
+
+			.left {
+				width: 220px;
+			}
+
+			.right {
+				flex: 1;
+			}
+
+			.title {
+				font-size: 24px;
+				color: #666;
+				margin-top: 10px;
+			}
+
+			.agent {
+				background: #c1dcff;
+				padding: 0 15px;
+				height: 40px;
+				line-height: 40px;
+				font-size: 12px;
+				color: #333;
+				margin-top: 10px;
+				border-radius: 20px 0 0 20px;
+
+				img {
+					width: 24px;
+					height: 24px;
+				}
+			}
+
+			.vip-price {
+				font-size: 14px;
+				color: #D81E06;
+				margin-top: 20px;
+			}
+
+			.btn {
+				display: block;
+				font-size: 16px;
+				width: 140px;
+				border-radius: 20px;
+				border: 1px solid #999;
+				height: 40px;
+				text-align: center;
+				line-height: 40px;
+				color: #333;
+				cursor: pointer;
+				margin-top: 60px;
+
+				&:hover {
+					color: #fff;
+					background-color: #D81E06;
+					border-color: #D81E06;
+				}
+			}
+		}
+	}
+}
+
+// 商品详情页，介绍表格
+
+.icon-red {
+	display: block;
+	float: left;
+	margin: 2px 8px 0 0;
+	width: 4px;
+	height: 22px;
+	background: #e60000
+}
+
+.proDetail {
+	height: auto;
+	overflow: hidden;
+	float: left;
+	margin-top: 20px;
+	background-color: #fff;
+	border: 1px solid #e6e6e6
+}
+
+.proDetail h2 {
+	height: 49px;
+	line-height: 49px;
+	border-bottom: #e4e4e4 solid 1px;
+	padding-left: 20px;
+	font-size: 18px;
+	background: #fafafa
+}
+
+.proDetail h2 .icon-red {
+	height: 18px;
+	margin-top: 16px
+}
+
+.detsMain {
+	padding: 20px;
+	height: auto;
+	overflow: hidden
+}
+
+.detsMain {
+	line-height: 200%
+}
+
+.detsMain img {
+	max-width: 100%
+}
+
+.dvop-title {
+	line-height: 30px;
+	font-size: 14px;
+	color: #333;
+	padding-bottom: 10px
+}
+
+.pro-tab {
+	margin-bottom: 30px;
+	overflow: hidden
+}
+
+.pt-name {
+	background: #f7f7f7;
+	width: 160px;
+	text-align: right;
+	padding-right: 15px;
+	border: 1px solid #ddd;
+}
+
+.pt-name h4 {
+	font-size: 14px;
+	color: #333;
+	margin: 0;
+	font-weight: 700
+}
+
+.pt-cent {
+	padding-left: 15px;
+	border: 1px solid #ddd;
+}
+
+.pro-tit {
+	font-size: 18px;
+	padding-bottom: 15px;
+	font-weight: 700;
+	color: #333;
+	padding-top: 15px
+}
+
+.pro-txt a {
+	color: #3737ee
+}
+
+.pro-txt a:hover,.prt-more:hover,.pr-img-list li a:hover {
+	color: #dd2727
+}
+
+.pt-bot {
+	margin-top: 30px;
+	border-top: 1px dashed #e5e5e5;
+	padding-top: 5px
+}
+
+.pt-bot a {
+	color: #333444;
+	max-width: 280px;
+	overflow: hidden
+}

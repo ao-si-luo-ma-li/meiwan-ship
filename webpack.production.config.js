@@ -170,7 +170,7 @@ module.exports = {
                 minimize: true
               }　　
         }, {
-            test: /\.(png|jpg)$/,
+            test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
             loader: 'url?limit=10000'
         }, {
             // 专供iconfont方案使用的，后面会带一串时间戳，需要特别匹配到

@@ -129,6 +129,11 @@ const ipad4_src_3_2 = require('../../assets/images/goods//ipad/ipad pro128/5938f
 const ipad4_src_3_3 = require('../../assets/images/goods//ipad/ipad pro128/5938ff0eNdb1a3cf9.jpg');
 const ipad4_src_3_4 = require('../../assets/images/goods//ipad/ipad pro128/5938ff0dNb4344327.jpg');
 
+const car_luntai_src_1_1 = require('../../assets/images/goods/car/081935621.jpg');
+const car_luntai_src_1_2 = require('../../assets/images/goods/car/jx21.jpg');
+const car_luntai_src_1_3 = require('../../assets/images/goods/car/jx31.jpg');
+const car_luntai_src_1_4 = require('../../assets/images/goods/car/jx41.jpg');
+
 const iphone = {
   "iphone6s": {
     "colors": ["金色"],
@@ -288,13 +293,53 @@ const iwatch = {
   }
 };
 
+const car = {
+  '德国马牌轮胎': {
+    "colors": ["黑色花纹系列"],
+    "versions": ["80cm"],
+    "prices": [499],
+    "srcs": {
+      "src_1":[car_luntai_src_1_1],
+    },
+    "detail": dt.car_luntai1_dt
+  },
+  '冰丝皮座垫夏季座套': {
+    "colors": ["炫酷黑"],
+    "versions": ["四季通用款"],
+    "prices": [288],
+    "srcs": {
+      "src_1":[car_luntai_src_1_2],
+    },
+    "detail": dt.car_luntai2_dt
+  },
+  '尼罗河 NILE 时尚坐垫': {
+    "colors": ["玫瑰红"],
+    "versions": ["四季通用款"],
+    "prices": [598],
+    "srcs": {
+      "src_1":[car_luntai_src_1_3],
+    },
+    "detail": dt.car_luntai3_dt
+  },
+  '尼罗河 NILE 亚麻坐垫': {
+    "colors": ["亚麻色"],
+    "versions": ["四季通用款"],
+    "prices": [288],
+    "srcs": {
+      "src_1":[car_luntai_src_1_4],
+    },
+    "detail": dt.car_luntai4_dt
+  }
+}
+
 const allpt = {
   iwatch,
   iphone,
-  ipad
+  ipad,
+  car
 };
 const getOne = function(pro) {
-  let kind = pro.split(',')[0];
+  let kind = decodeURI(pro).split(',')[0];
   let version = pro.split(',')[1];
   return allpt[kind][version];
 }

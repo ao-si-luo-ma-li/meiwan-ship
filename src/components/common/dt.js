@@ -1413,6 +1413,198 @@ const ipad4_dt = `
 </div>
 `
 
+const car_luntai1_dt = `
+<div class="proDetail">
+<h2><div class="icon-red"></div>商品信息</h2>
+<div class="detsMain">
+
+<div class="dvop-title">基本参数</div>
+<div class="pro-tab">
+<table width="100%" cellpadding="0" cellspacing="1" border="0" bgcolor="#e5e5e5">
+<tbody>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>品牌：</h4></td>
+<td class="pt-cent">未填</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>所在地：</h4></td>
+<td class="pt-cent">浙江</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>起订：</h4></td>
+<td class="pt-cent">≥1 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>供货总量：</h4></td>
+<td class="pt-cent">123 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>有效期至：</h4></td>
+<td class="pt-cent">长期有效</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="dvop-title">详细说明</div>
+<div>
+	<img src="http://img10.360buyimg.com/imgzone/jfs/t1/101164/20/13963/256923/5e632188Ebb2f19ba/eabe480eec13b3ef.jpg" alt="">
+</div>
+<div>
+	<img src="http://img10.360buyimg.com/imgzone/jfs/t1/93745/34/14159/1139302/5e6321a5E2696fb82/664e00db27c65f6a.png">
+</div>
+<!-- <div class="pdmain">
+<div class="content c_b" id="content"><img src="picture/wkhqw1vxrrwej6nlaaaaahrnx9u510.jpg">KSL-380系列剩余电流式电气火灾监控探测器&nbsp;<br><br><br>一、KSL产品执行的标准执行**标准 GB14287.2-2005 《电气火灾监控系统 第2部分：剩余电流式电气火灾监控探测器》<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GB14287.3-2005 《电气火灾监控系统 第3部分：测温式电气火灾监控探测器》.<br>二、本产品的功能、用途和特点:<br>产品功能： &nbsp; &nbsp;&nbsp;<br>2.1 具有1路漏电和1路温度保护功能，数码管显示各种功能参数.<br>2.2 系统参数设定方便简单<br>2.3 分级选择性保护，防止大面积断电，确保用电安全<br>2.4 各项预警、报警、脱扣阈值可调<br>2.5 支持复位及自检功能<br>2.6 监控器具有声光报警功能,总线通讯<br>2.7 安全可靠，设备外观小巧时尚消防联动接口、接受消防系统控制指令(DC24V)<br>2.8报警脱扣/只报警不脱扣（可自由选择）&nbsp;<br><br>规格说明：和KSL-F(圆形）/KSL-Y（方形）系列剩余电流探测器配套使用，用于相电流63-4000A配电线路中.&nbsp;<br><br>安装方法：标准35mm导轨安装。&nbsp;<br><br>KSL系列产品运用于危险场所、高层建筑、公共场所及住宅楼宇的单元供电系统。如加油站、各种危险品仓库、医院、各种营业厅、展示厅、商场、宾馆、饭店、图书馆、写字楼、电信邮政大楼、机房、重要房间、财贸金融、广播电视、重要部门及人员密集的建筑、娱乐场所和政府机关个事业单位的办公楼等场所的用电系统。可有效的保障安全用电和防止电气火灾的发生。通过消防监视点感烟器、感温器、易燃易爆有害气体探测器等消防设施的输出触点与本监控探测器的接口相连。一旦接收到传感器的信号，监控探测器立即切断该区域的电源，并发出声，光报警信号，防止事态的扩大与恶化。<br>本监控探测器可单独使用或装于配电柜中使用。也可以多个监控探测器组网使用，小电流等级的产品也适合别墅与家庭小范围用户使用。本监控探测器不能使用在有粉尘及导电尘埃、腐蚀性、易燃易爆等有害气体及雨雪侵袭的地方和场所。<br>三、主要技术参数：&nbsp;<br><br><br>四、产品类型说明<br>说明：1、KSL系列剩余电流监控探测器是分体式（有单路和多路）.<br>&nbsp; &nbsp; &nbsp; &nbsp; 2、分休式剩余电流监控探测器，线路保护执行元件（断路器）和互感器分别独立安装，监<br>的线路为1路（还有探测1路温度功能可选）。&nbsp;<br>五、分体式（单路）剩余电流监控探测器使用说明<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>六、KSL(1路漏电1路温度）剩余电流监控探测器外形尺寸、端子图和外接线路图：&nbsp;<br><br><br>施工注意要素：<br>漏电监控应正确的与工程电力系统接地保护方式相配合。<br>TN-C接地系统不可装设漏电监控节点，如需装设时必须将系统接地保护方式改造成TN-C-S系统或局部TT系统。&nbsp;<br>TN-C-S接地系统中，电气火灾监控系统的剩余电流探测器只允许配置在PE线与N线分开以后的部分。&nbsp;<br><br><br>以便消除剩余电流引起的电气火灾隐患<br></div>
+</div> -->
+</div>
+<div class="pingl"></div>
+</div>
+`
+
+const car_luntai2_dt = `
+<div class="proDetail">
+<h2><div class="icon-red"></div>商品信息</h2>
+<div class="detsMain">
+
+<div class="dvop-title">基本参数</div>
+<div class="pro-tab">
+<table width="100%" cellpadding="0" cellspacing="1" border="0" bgcolor="#e5e5e5">
+<tbody>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>品牌：</h4></td>
+<td class="pt-cent">未填</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>所在地：</h4></td>
+<td class="pt-cent">浙江</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>起订：</h4></td>
+<td class="pt-cent">≥1 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>供货总量：</h4></td>
+<td class="pt-cent">123 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>有效期至：</h4></td>
+<td class="pt-cent">长期有效</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="dvop-title">详细说明</div>
+<div>
+	<img src="https://img10.360buyimg.com/imgzone/jfs/t1/100017/34/16210/111450/5e7a3a10E943ada5e/c05ac70997ef748a.jpg" alt="">
+</div>
+<div>
+	<img src="https://img10.360buyimg.com/imgzone/jfs/t1/64323/15/3659/197950/5d1e805eE48d83ede/972a62f6d4db92b4.jpg">
+</div>
+<!-- <div class="pdmain">
+<div class="content c_b" id="content"><img src="picture/wkhqw1vxrrwej6nlaaaaahrnx9u510.jpg">KSL-380系列剩余电流式电气火灾监控探测器&nbsp;<br><br><br>一、KSL产品执行的标准执行**标准 GB14287.2-2005 《电气火灾监控系统 第2部分：剩余电流式电气火灾监控探测器》<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GB14287.3-2005 《电气火灾监控系统 第3部分：测温式电气火灾监控探测器》.<br>二、本产品的功能、用途和特点:<br>产品功能： &nbsp; &nbsp;&nbsp;<br>2.1 具有1路漏电和1路温度保护功能，数码管显示各种功能参数.<br>2.2 系统参数设定方便简单<br>2.3 分级选择性保护，防止大面积断电，确保用电安全<br>2.4 各项预警、报警、脱扣阈值可调<br>2.5 支持复位及自检功能<br>2.6 监控器具有声光报警功能,总线通讯<br>2.7 安全可靠，设备外观小巧时尚消防联动接口、接受消防系统控制指令(DC24V)<br>2.8报警脱扣/只报警不脱扣（可自由选择）&nbsp;<br><br>规格说明：和KSL-F(圆形）/KSL-Y（方形）系列剩余电流探测器配套使用，用于相电流63-4000A配电线路中.&nbsp;<br><br>安装方法：标准35mm导轨安装。&nbsp;<br><br>KSL系列产品运用于危险场所、高层建筑、公共场所及住宅楼宇的单元供电系统。如加油站、各种危险品仓库、医院、各种营业厅、展示厅、商场、宾馆、饭店、图书馆、写字楼、电信邮政大楼、机房、重要房间、财贸金融、广播电视、重要部门及人员密集的建筑、娱乐场所和政府机关个事业单位的办公楼等场所的用电系统。可有效的保障安全用电和防止电气火灾的发生。通过消防监视点感烟器、感温器、易燃易爆有害气体探测器等消防设施的输出触点与本监控探测器的接口相连。一旦接收到传感器的信号，监控探测器立即切断该区域的电源，并发出声，光报警信号，防止事态的扩大与恶化。<br>本监控探测器可单独使用或装于配电柜中使用。也可以多个监控探测器组网使用，小电流等级的产品也适合别墅与家庭小范围用户使用。本监控探测器不能使用在有粉尘及导电尘埃、腐蚀性、易燃易爆等有害气体及雨雪侵袭的地方和场所。<br>三、主要技术参数：&nbsp;<br><br><br>四、产品类型说明<br>说明：1、KSL系列剩余电流监控探测器是分体式（有单路和多路）.<br>&nbsp; &nbsp; &nbsp; &nbsp; 2、分休式剩余电流监控探测器，线路保护执行元件（断路器）和互感器分别独立安装，监<br>的线路为1路（还有探测1路温度功能可选）。&nbsp;<br>五、分体式（单路）剩余电流监控探测器使用说明<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>六、KSL(1路漏电1路温度）剩余电流监控探测器外形尺寸、端子图和外接线路图：&nbsp;<br><br><br>施工注意要素：<br>漏电监控应正确的与工程电力系统接地保护方式相配合。<br>TN-C接地系统不可装设漏电监控节点，如需装设时必须将系统接地保护方式改造成TN-C-S系统或局部TT系统。&nbsp;<br>TN-C-S接地系统中，电气火灾监控系统的剩余电流探测器只允许配置在PE线与N线分开以后的部分。&nbsp;<br><br><br>以便消除剩余电流引起的电气火灾隐患<br></div>
+</div> -->
+</div>
+<div class="pingl"></div>
+</div>
+`
+
+const car_luntai3_dt = `
+<div class="proDetail">
+<h2><div class="icon-red"></div>商品信息</h2>
+<div class="detsMain">
+
+<div class="dvop-title">基本参数</div>
+<div class="pro-tab">
+<table width="100%" cellpadding="0" cellspacing="1" border="0" bgcolor="#e5e5e5">
+<tbody>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>品牌：</h4></td>
+<td class="pt-cent">未填</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>所在地：</h4></td>
+<td class="pt-cent">浙江</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>起订：</h4></td>
+<td class="pt-cent">≥1 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>供货总量：</h4></td>
+<td class="pt-cent">123 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>有效期至：</h4></td>
+<td class="pt-cent">长期有效</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="dvop-title">详细说明</div>
+<div>
+	<img src="https://img10.360buyimg.com/imgzone/jfs/t1/14615/20/11626/301467/5c908a35E79b66b2b/64578c457182d407.jpg" alt="">
+</div>
+<div>
+	<img src="https://img10.360buyimg.com/imgzone/jfs/t1/27864/39/11486/303587/5c908a35Ef033f97c/e0e0e3f93dcdfd82.jpg">
+</div>
+<!-- <div class="pdmain">
+<div class="content c_b" id="content"><img src="picture/wkhqw1vxrrwej6nlaaaaahrnx9u510.jpg">KSL-380系列剩余电流式电气火灾监控探测器&nbsp;<br><br><br>一、KSL产品执行的标准执行**标准 GB14287.2-2005 《电气火灾监控系统 第2部分：剩余电流式电气火灾监控探测器》<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GB14287.3-2005 《电气火灾监控系统 第3部分：测温式电气火灾监控探测器》.<br>二、本产品的功能、用途和特点:<br>产品功能： &nbsp; &nbsp;&nbsp;<br>2.1 具有1路漏电和1路温度保护功能，数码管显示各种功能参数.<br>2.2 系统参数设定方便简单<br>2.3 分级选择性保护，防止大面积断电，确保用电安全<br>2.4 各项预警、报警、脱扣阈值可调<br>2.5 支持复位及自检功能<br>2.6 监控器具有声光报警功能,总线通讯<br>2.7 安全可靠，设备外观小巧时尚消防联动接口、接受消防系统控制指令(DC24V)<br>2.8报警脱扣/只报警不脱扣（可自由选择）&nbsp;<br><br>规格说明：和KSL-F(圆形）/KSL-Y（方形）系列剩余电流探测器配套使用，用于相电流63-4000A配电线路中.&nbsp;<br><br>安装方法：标准35mm导轨安装。&nbsp;<br><br>KSL系列产品运用于危险场所、高层建筑、公共场所及住宅楼宇的单元供电系统。如加油站、各种危险品仓库、医院、各种营业厅、展示厅、商场、宾馆、饭店、图书馆、写字楼、电信邮政大楼、机房、重要房间、财贸金融、广播电视、重要部门及人员密集的建筑、娱乐场所和政府机关个事业单位的办公楼等场所的用电系统。可有效的保障安全用电和防止电气火灾的发生。通过消防监视点感烟器、感温器、易燃易爆有害气体探测器等消防设施的输出触点与本监控探测器的接口相连。一旦接收到传感器的信号，监控探测器立即切断该区域的电源，并发出声，光报警信号，防止事态的扩大与恶化。<br>本监控探测器可单独使用或装于配电柜中使用。也可以多个监控探测器组网使用，小电流等级的产品也适合别墅与家庭小范围用户使用。本监控探测器不能使用在有粉尘及导电尘埃、腐蚀性、易燃易爆等有害气体及雨雪侵袭的地方和场所。<br>三、主要技术参数：&nbsp;<br><br><br>四、产品类型说明<br>说明：1、KSL系列剩余电流监控探测器是分体式（有单路和多路）.<br>&nbsp; &nbsp; &nbsp; &nbsp; 2、分休式剩余电流监控探测器，线路保护执行元件（断路器）和互感器分别独立安装，监<br>的线路为1路（还有探测1路温度功能可选）。&nbsp;<br>五、分体式（单路）剩余电流监控探测器使用说明<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>六、KSL(1路漏电1路温度）剩余电流监控探测器外形尺寸、端子图和外接线路图：&nbsp;<br><br><br>施工注意要素：<br>漏电监控应正确的与工程电力系统接地保护方式相配合。<br>TN-C接地系统不可装设漏电监控节点，如需装设时必须将系统接地保护方式改造成TN-C-S系统或局部TT系统。&nbsp;<br>TN-C-S接地系统中，电气火灾监控系统的剩余电流探测器只允许配置在PE线与N线分开以后的部分。&nbsp;<br><br><br>以便消除剩余电流引起的电气火灾隐患<br></div>
+</div> -->
+</div>
+<div class="pingl"></div>
+</div>
+`
+
+const car_luntai4_dt = `
+<div class="proDetail">
+<h2><div class="icon-red"></div>商品信息</h2>
+<div class="detsMain">
+
+<div class="dvop-title">基本参数</div>
+<div class="pro-tab">
+<table width="100%" cellpadding="0" cellspacing="1" border="0" bgcolor="#e5e5e5">
+<tbody>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>品牌：</h4></td>
+<td class="pt-cent">未填</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>所在地：</h4></td>
+<td class="pt-cent">浙江</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>起订：</h4></td>
+<td class="pt-cent">≥1 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>供货总量：</h4></td>
+<td class="pt-cent">123 台</td>
+</tr>
+<tr height="36" bgcolor="#ffffff">
+<td class="pt-name"><h4>有效期至：</h4></td>
+<td class="pt-cent">长期有效</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div class="dvop-title">详细说明</div>
+<div>
+	<img src="https://img10.360buyimg.com/imgzone/jfs/t1/86942/2/8763/414329/5e077a19Ef54d593b/fda1f66522babc2e.jpg" alt="">
+</div>
+<div>
+	<img src="https://img10.360buyimg.com/imgzone/jfs/t1/101988/22/8728/862840/5e077a19Eb3e36617/1672a43c9d253e97.jpg">
+</div>
+<!-- <div class="pdmain">
+<div class="content c_b" id="content"><img src="picture/wkhqw1vxrrwej6nlaaaaahrnx9u510.jpg">KSL-380系列剩余电流式电气火灾监控探测器&nbsp;<br><br><br>一、KSL产品执行的标准执行**标准 GB14287.2-2005 《电气火灾监控系统 第2部分：剩余电流式电气火灾监控探测器》<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GB14287.3-2005 《电气火灾监控系统 第3部分：测温式电气火灾监控探测器》.<br>二、本产品的功能、用途和特点:<br>产品功能： &nbsp; &nbsp;&nbsp;<br>2.1 具有1路漏电和1路温度保护功能，数码管显示各种功能参数.<br>2.2 系统参数设定方便简单<br>2.3 分级选择性保护，防止大面积断电，确保用电安全<br>2.4 各项预警、报警、脱扣阈值可调<br>2.5 支持复位及自检功能<br>2.6 监控器具有声光报警功能,总线通讯<br>2.7 安全可靠，设备外观小巧时尚消防联动接口、接受消防系统控制指令(DC24V)<br>2.8报警脱扣/只报警不脱扣（可自由选择）&nbsp;<br><br>规格说明：和KSL-F(圆形）/KSL-Y（方形）系列剩余电流探测器配套使用，用于相电流63-4000A配电线路中.&nbsp;<br><br>安装方法：标准35mm导轨安装。&nbsp;<br><br>KSL系列产品运用于危险场所、高层建筑、公共场所及住宅楼宇的单元供电系统。如加油站、各种危险品仓库、医院、各种营业厅、展示厅、商场、宾馆、饭店、图书馆、写字楼、电信邮政大楼、机房、重要房间、财贸金融、广播电视、重要部门及人员密集的建筑、娱乐场所和政府机关个事业单位的办公楼等场所的用电系统。可有效的保障安全用电和防止电气火灾的发生。通过消防监视点感烟器、感温器、易燃易爆有害气体探测器等消防设施的输出触点与本监控探测器的接口相连。一旦接收到传感器的信号，监控探测器立即切断该区域的电源，并发出声，光报警信号，防止事态的扩大与恶化。<br>本监控探测器可单独使用或装于配电柜中使用。也可以多个监控探测器组网使用，小电流等级的产品也适合别墅与家庭小范围用户使用。本监控探测器不能使用在有粉尘及导电尘埃、腐蚀性、易燃易爆等有害气体及雨雪侵袭的地方和场所。<br>三、主要技术参数：&nbsp;<br><br><br>四、产品类型说明<br>说明：1、KSL系列剩余电流监控探测器是分体式（有单路和多路）.<br>&nbsp; &nbsp; &nbsp; &nbsp; 2、分休式剩余电流监控探测器，线路保护执行元件（断路器）和互感器分别独立安装，监<br>的线路为1路（还有探测1路温度功能可选）。&nbsp;<br>五、分体式（单路）剩余电流监控探测器使用说明<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>六、KSL(1路漏电1路温度）剩余电流监控探测器外形尺寸、端子图和外接线路图：&nbsp;<br><br><br>施工注意要素：<br>漏电监控应正确的与工程电力系统接地保护方式相配合。<br>TN-C接地系统不可装设漏电监控节点，如需装设时必须将系统接地保护方式改造成TN-C-S系统或局部TT系统。&nbsp;<br>TN-C-S接地系统中，电气火灾监控系统的剩余电流探测器只允许配置在PE线与N线分开以后的部分。&nbsp;<br><br><br>以便消除剩余电流引起的电气火灾隐患<br></div>
+</div> -->
+</div>
+<div class="pingl"></div>
+</div>
+`
+
 module.exports = {
   iphone6_dt,
   iphone6sp_dt,
@@ -1428,5 +1620,9 @@ module.exports = {
   iwatchs2n_dt,
   ipad2_dt,
   ipad3_dt,
-  ipad4_dt
+  ipad4_dt,
+  car_luntai1_dt,
+  car_luntai2_dt,
+  car_luntai3_dt,
+  car_luntai4_dt,
 }
