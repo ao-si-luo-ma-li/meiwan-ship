@@ -19,12 +19,12 @@ $('#slides').slidesjs({
     }
  });
 $('#slides-shopGood').slidesjs({
-    width: 190,
-    height: 440,
+    width: 1000,
+    height: 510,
     play: {
       active: true,
       auto: true,
-      interval: 2000,
+      interval: 3000,
       swap: true
     }
  });

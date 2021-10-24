@@ -62,9 +62,11 @@ const allpts = require('./common/pt.js');
 	}
 	var setDetail = function() {
 		arg = decodeURI(location.href).split('?')[1] ? decodeURI(location.href).split('?')[1].split('&')[0] : 'iphone,iphone7';
+		console.log('arg', arg)
 		if (decodeURI(location.href).split('?')[1] && decodeURI(location.href).split('?')[1].split('&')[1]) {
 			storeName = decodeURI(location.href).split('?')[1].split('&')[1] ? unescape(decodeURI(location.href).split('?')[1].split('&')[1].split('=')[1]) : '乐清安盾智能电气有限';
 		}
+
 
 		let colors = allpts.getOne(arg).colors;
 		let versions = allpts.getOne(arg).versions;
@@ -278,11 +280,11 @@ const allpts = require('./common/pt.js');
 	};
 
 	// 查看商铺详情
-	$('#into-store').click(function() {
-		let storeName = $('.third-part').eq(0).text();
-		let storeUrl = `./thirdstore.html?store=${escape(storeName)}`;
+	// $('#into-store').click(function() {
+	// 	let storeName = $('.third-part').eq(0).text();
+	// 	let storeUrl = `./thirdstore.html?store=${escape(storeName)}`;
 
-		window.open(storeUrl, '_self');
-	})
+	// 	window.open(storeUrl, '_self');
+	// })
 
 })();

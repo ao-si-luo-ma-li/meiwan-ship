@@ -171,7 +171,7 @@ module.exports = {
               }　　
         }, {
             test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
-            loader: 'url?limit=10000'
+            loader: 'url?limit=1000'
         }, {
             // 专供iconfont方案使用的，后面会带一串时间戳，需要特别匹配到
             test: /\.(woff|woff2|svg|eot|ttf)\??.*$/,
